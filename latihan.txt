@@ -4,3 +4,5 @@ kegiatan:
 3. Edit file README.md
 4. Menambah file latihan.txt ke repository
 5. Membuat brach langsung pada repository
+
+teks ini di buat oleh gury putu
